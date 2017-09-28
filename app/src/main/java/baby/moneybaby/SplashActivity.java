@@ -43,4 +43,7 @@ public class SplashActivity extends Activity {
             handler.sendEmptyMessage(0x123);
         }
     };
+    private void d(){
+
+    }
 }
